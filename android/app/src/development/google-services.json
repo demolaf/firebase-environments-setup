@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620722683362",
+    "project_id": "aob-env-dev",
+    "storage_bucket": "aob-env-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620722683362:android:ef0805265ac55aeb430dbb",
+        "android_client_info": {
+          "package_name": "com.aobenv.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxsY1x8AF2T12lv02IWK8DZjgYFJjuBJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

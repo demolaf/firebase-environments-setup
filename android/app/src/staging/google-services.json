@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495570341554",
+    "project_id": "aob-env-stg",
+    "storage_bucket": "aob-env-stg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495570341554:android:c9461b340f4c41b6e2c3ab",
+        "android_client_info": {
+          "package_name": "com.aobenv.stg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw_YaeLOi8vxIWfy1Vfb7wWpepjDPAxbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
